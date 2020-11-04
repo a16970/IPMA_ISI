@@ -1,0 +1,65 @@
+{
+  "owner": "IPMA",
+  "country": "PT",
+  "data": [
+    {
+      "precipitaProb": "0.0",
+      "tMin": "8.2",
+      "tMax": "18.8",
+      "predWindDir": "NW",
+      "idWeatherType": 3,
+      "classWindSpeed": 1,
+      "longitude": "-8.6535",
+      "forecastDate": "2020-10-29",
+      "latitude": "40.6413"
+    },
+    {
+      "precipitaProb": "0.0",
+      "tMin": "9.0",
+      "tMax": "21.0",
+      "predWindDir": "S",
+      "idWeatherType": 2,
+      "classWindSpeed": 1,
+      "longitude": "-8.6535",
+      "forecastDate": "2020-10-30",
+      "latitude": "40.6413"
+    },
+    {
+      "precipitaProb": "3.0",
+      "tMin": "10.6",
+      "tMax": "22.4",
+      "predWindDir": "S",
+      "idWeatherType": 5,
+      "classWindSpeed": 1,
+      "longitude": "-8.6535",
+      "forecastDate": "2020-10-31",
+      "latitude": "40.6413"
+    },
+    {
+      "precipitaProb": "52.0",
+      "tMin": "13.6",
+      "tMax": "19.9",
+      "predWindDir": "SE",
+      "idWeatherType": 10,
+      "classWindSpeed": 1,
+      "longitude": "-8.6535",
+      "forecastDate": "2020-11-01",
+      "classPrecInt": 1,
+      "latitude": "40.6413"
+    },
+    {
+      "precipitaProb": "96.0",
+      "tMin": "14.0",
+      "tMax": "20.4",
+      "predWindDir": "NW",
+      "idWeatherType": 10,
+      "classWindSpeed": 2,
+      "longitude": "-8.6535",
+      "forecastDate": "2020-11-02",
+      "classPrecInt": 1,
+      "latitude": "40.6413"
+    }
+  ],
+  "globalIdLocal": 1010500,
+  "dataUpdate": "2020-10-29T18:31:03"
+}
